@@ -1,0 +1,10 @@
+{
+    "ors": {
+      "url": "https://api.openrouteservice.org",
+      "restEndPoints": {
+        "shortest_route": "/v2/directions/driving-car",
+        "geocode_coordinates": "/geocode/autocomplete"
+      }
+    },
+    "port": 3030
+}
